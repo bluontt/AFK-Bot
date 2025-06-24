@@ -3,7 +3,7 @@
 
 A sophisticated AFK (Away From Keyboard) bot for gaming with KeyAuth authentication, designed to keep your character active while you're away.
 
-
+purchase a key from bluxploit.com
 
 ## Features
 
